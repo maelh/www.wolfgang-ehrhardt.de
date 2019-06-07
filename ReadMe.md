@@ -1,5 +1,6 @@
 # www.wolfgang-ehrhardt.de
-To save valuable work. 
+
+`wget -r -k -E -np www.wolfgang-ehrhardt.de`
 
 https://www.delphipraxis.net/200202-rip-gammatester.html
 
